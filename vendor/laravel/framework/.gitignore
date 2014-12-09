@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+=======
+=======
+>>>>>>> ed54c42441fb1d231a7e7d42485af9f5fd8a2cb6
+/vendor
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
+<<<<<<< HEAD
+>>>>>>> ed54c42441fb1d231a7e7d42485af9f5fd8a2cb6
+=======
+>>>>>>> ed54c42441fb1d231a7e7d42485af9f5fd8a2cb6
